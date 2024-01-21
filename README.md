@@ -4,8 +4,6 @@
 
 Este projeto é uma versão simplificada da ferramenta Notion.
 
-[Deploy](https://simple-notion.vercel.app/)
-
 ## Tecnologias
 - HTML
 - CSS
